@@ -1,0 +1,2 @@
+One OS function is program control. The OS basically runs the programs and makes them perform the way they were intednded to. It also helps the
+programs interact with other hardware, like if you were to plug your iPhone into a MacBook or othe Apple laptop/PC.
