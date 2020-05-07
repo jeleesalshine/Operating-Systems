@@ -2,3 +2,5 @@ One OS function is program control. The OS basically runs the programs and makes
 programs interact with other hardware, like if you were to plug your iPhone into a MacBook or othe Apple laptop/PC.
 
 Another OS function is data access. The OS is responsible for accessing, storing, and retrieving files stored on the hardwares memory (internal or external as well as cloud based storage). It tells the hardware how to read the data and what to do with it.
+
+The OS is also responsible for device management. Basically, anything that is connected to the computer (microphone, webcam, external hard drives, headphones) are communicating with the OS. The OS is telling these connected devices what to do and how to interact with other hardware/programs on the computer. 
